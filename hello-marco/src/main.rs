@@ -2,7 +2,7 @@
 use clap::Parser;
 
 #[derive(Parser)]
-#[clap(version = "1.0", author = "Noah Gift", about = "A Marco Polo game")]
+#[clap(version = "1.0", author = "Elisa Piccin", about = "A simple Marco Polo game to play with Rust")]
 struct Cli {
     #[clap(subcommand)]
     command: Option<Commands>,
