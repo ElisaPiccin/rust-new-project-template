@@ -39,3 +39,7 @@ Additional options:
 ./target/debug/hello-marco --help
 ```
 
+
+## Why Rust?
+
+![Example Image](images/rust-secure-by-design.png)
