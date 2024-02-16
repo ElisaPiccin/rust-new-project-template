@@ -1,6 +1,9 @@
 # rust-new-project-template
 A good starting point for a new Rust project
 
+> **Heuristic:** *Rust if you can, Python if you must.*
+
+
 ## References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
